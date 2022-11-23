@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Lab6.3 inter test.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.3 inter.cpp\Lab6.3 inter.cpp\Lab6.3 inter.cpp.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.3 inter.cpp\x64\Debug\Lab6.3 inter test.lib и объект C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.3 inter.cpp\x64\Debug\Lab6.3 inter test.exp
+  Lab6.3 inter test.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab6.3 inter.cpp\x64\Debug\Lab6.3 inter test.dll
